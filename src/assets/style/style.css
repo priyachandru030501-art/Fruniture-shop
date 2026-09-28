@@ -15,7 +15,7 @@ body {
 }
 
 
-/* Navbar */
+
 
 header {
     width: 100%;
@@ -53,7 +53,7 @@ nav a:hover {
 }
 
 
-/* Hero */
+
 
 .hero {
     height: 600px;
@@ -105,7 +105,6 @@ nav a:hover {
 }
 
 
-/* Products */
 
 .products {
     padding: 70px 8%;
@@ -186,7 +185,7 @@ nav a:hover {
 }
 
 
-/* About */
+
 
 .about {
     padding: 80px 15%;
@@ -203,7 +202,7 @@ nav a:hover {
 }
 
 
-/* Contact */
+
 
 .contact {
     padding: 70px 10%;
@@ -217,7 +216,6 @@ nav a:hover {
 }
 
 
-/* Footer */
 
 footer {
     padding: 20px;
@@ -228,7 +226,7 @@ footer {
 }
 
 
-/* Mobile Responsive */
+
 
 @media (max-width: 768px) {
 
